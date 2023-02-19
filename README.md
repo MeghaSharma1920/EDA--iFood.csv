@@ -1,5 +1,5 @@
 # EDA--iFood.csv
-Create a jupyter notebook/ kaggle notebook for this task.
+
 Explore distributions, segment-wise preferences of customers, advertising expenses segments and performances, etc. Use different kinds of plotting, tables, and other summarization techniques to explore these relationships.
 
 Explore offers_accepted/customer profile, customer_profile/amount spent on products relationship.
@@ -12,7 +12,5 @@ For example, if you want to predict how the customer's spending on a household i
 
 Similarly, other common sense relations can be explored via modeling different things.
 
-Finally compile the works properly in the notebook, add a bit of color and flares and end with conclusions
-
-Tools to be used:
+Tools used:
 plotly, seaborn, numpy, pandas, python native functions, sklearn(optional)
